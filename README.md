@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @shabiasaeed
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning Linux, Software Process, and Operating Systems
-- 💞️ I’m looking to collaborate on Larger projects
-- 📫 How to reach me: shabia-ab@hotmail.com
+<h3>TECHNOLOGIES</h3>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/04305678953741d5643015d7a404433eb42170001b02bbe9ff701477ec52afb5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3030303f266c6f676f3d507974686f6e"><img src="https://camo.githubusercontent.com/04305678953741d5643015d7a404433eb42170001b02bbe9ff701477ec52afb5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3030303f266c6f676f3d507974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-000?&amp;logo=Python" style="max-width: 100%;"></a><img src="https://camo.githubusercontent.com/e05eaf8bb60da08c9b55036474c4e1f86a4c9ce6e3360d43cc97335309dba6b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-000?&amp;logo=JavaScript" style="max-width: 100%;"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4a6e72af302f06613ef9375d1bd0cfed0592654a0eb667fed54633f688004f4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030303f266c6f676f3d4a617661266c6f676f436f6c6f723d303037333936"><img src="https://camo.githubusercontent.com/4a6e72af302f06613ef9375d1bd0cfed0592654a0eb667fed54633f688004f4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030303f266c6f676f3d4a617661266c6f676f436f6c6f723d303037333936" alt="Java" data-canonical-src="https://img.shields.io/badge/-Java-000?&amp;logo=Java&amp;logoColor=007396" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/60a3ac562cd5f72985377d0cc4c34ea9cb1c948fce0668385d8b32cbf5a90247/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d3030303f266c6f676f3d4d7953514c"><img src="https://camo.githubusercontent.com/60a3ac562cd5f72985377d0cc4c34ea9cb1c948fce0668385d8b32cbf5a90247/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d3030303f266c6f676f3d4d7953514c" alt="SQL" data-canonical-src="https://img.shields.io/badge/-SQL-000?&amp;logo=MySQL" style="max-width: 100%;"></a>
 
-<!---
-shabiasaeed/shabiasaeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3>FULL STACK PROJECTS</h3>
+<br>
+<img src="https://camo.githubusercontent.com/0132c975e4782fd2d45a280683ef696f5a81e09a2475eefadbdcbb456fed2c63/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2546302539462541372541432532304d79253230576562736974652d303030" alt="" data-canonical-src="https://img.shields.io/badge/-%F0%9F%A7%AC%20My%20Website-000" style="max-width: 100%;">
+
+<h3>CONNECT WITH ME</h3>
+
+<img src="https://camo.githubusercontent.com/eff3e7484b1754de8279027247ccec9c3deaeb76b4c4946c5d634a8579c2c1ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="instagram" data-canonical-src="https://img.shields.io/badge/instagram-%23000000.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 10%;">
+
+
+
+
