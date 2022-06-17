@@ -1,5 +1,6 @@
 <h3>TECHNOLOGIES</h3>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/04305678953741d5643015d7a404433eb42170001b02bbe9ff701477ec52afb5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3030303f266c6f676f3d507974686f6e"><img src="https://camo.githubusercontent.com/04305678953741d5643015d7a404433eb42170001b02bbe9ff701477ec52afb5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3030303f266c6f676f3d507974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-000?&amp;logo=Python" style="max-width: 100%;"></a><img src="https://camo.githubusercontent.com/e05eaf8bb60da08c9b55036474c4e1f86a4c9ce6e3360d43cc97335309dba6b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-000?&amp;logo=JavaScript" style="max-width: 100%;"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4a6e72af302f06613ef9375d1bd0cfed0592654a0eb667fed54633f688004f4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030303f266c6f676f3d4a617661266c6f676f436f6c6f723d303037333936"><img src="https://camo.githubusercontent.com/4a6e72af302f06613ef9375d1bd0cfed0592654a0eb667fed54633f688004f4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030303f266c6f676f3d4a617661266c6f676f436f6c6f723d303037333936" alt="Java" data-canonical-src="https://img.shields.io/badge/-Java-000?&amp;logo=Java&amp;logoColor=007396" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/60a3ac562cd5f72985377d0cc4c34ea9cb1c948fce0668385d8b32cbf5a90247/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d3030303f266c6f676f3d4d7953514c"><img src="https://camo.githubusercontent.com/60a3ac562cd5f72985377d0cc4c34ea9cb1c948fce0668385d8b32cbf5a90247/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d3030303f266c6f676f3d4d7953514c" alt="SQL" data-canonical-src="https://img.shields.io/badge/-SQL-000?&amp;logo=MySQL" style="max-width: 100%;"></a>
+
+![Django](https://img.shields.io/badge/django-12100E.svg?style=for-the-badge&logo=django&logoColor=white)
 
 <h3>FULL STACK PROJECTS</h3>
 <br>
@@ -7,8 +8,28 @@
 
 <h3>CONNECT WITH ME</h3>
 
-<img src="https://camo.githubusercontent.com/eff3e7484b1754de8279027247ccec9c3deaeb76b4c4946c5d634a8579c2c1ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="instagram" data-canonical-src="https://img.shields.io/badge/instagram-%23000000.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 10%;">
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+<!-- display the social media buttons in your README -->
+
+[![alt text][6.1]][6]
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
 
 
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 
 
+[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+
+
+[6]: http://www.github.com/shabiasaeed
+[1]: http://www.twitter.com/ShabiaSaeed
+[2]: http://www.facebook.com/shabia.saeed
+
+
+<!-- ![Instagram](https://img.shields.io/badge/Instagram-12100E.svg?style=for-the-badge&logo=Instagram&logoColor=white) -->
