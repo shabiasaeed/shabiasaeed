@@ -1,12 +1,12 @@
-<h3>TECHNOLOGIES</h3>
-
-![Django](https://img.shields.io/badge/django-12100E.svg?style=for-the-badge&logo=django&logoColor=white)
-
-![Java](https://img.shields.io/badge/java-12100E.svg?style=for-the-badge&logo=java&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-12100E.svg?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://user-images.githubusercontent.com/84743905/174509202-a070c147-bb41-4174-aa01-510c6c7f4903.png)
 
 
+<h3><img src="https://user-images.githubusercontent.com/84743905/174509202-a070c147-bb41-4174-aa01-510c6c7f4903.png" alt="image" align="middle"> TECHNOLOGIES</h3>
+
+![image](https://user-images.githubusercontent.com/84743905/174512894-dd0c3ad2-f795-4c64-b8d0-edaecd00af07.png)
+![image](https://user-images.githubusercontent.com/84743905/174512924-282de661-eca1-4945-8f38-37e0bcf6477c.png)
+![image](https://user-images.githubusercontent.com/84743905/174512948-4a0a8ab3-ca87-43c3-8bcb-03104c0259a0.png)
+![image](https://user-images.githubusercontent.com/84743905/174512999-aaa67643-9ed6-4cad-b8c0-0b5d15a7b8a6.png)
 
 
 
@@ -24,6 +24,8 @@
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 ![alt text][3.1]
+![image](https://user-images.githubusercontent.com/84743905/174513198-4ec81118-8456-4336-85dd-3ea7f56a0a70.png)
+
 
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
@@ -33,6 +35,7 @@
 [6]: http://www.github.com/shabiasaeed
 [1]: http://www.twitter.com/ShabiaSaeed
 [2]: http://www.facebook.com/shabia.saeed
+
 
 
 
