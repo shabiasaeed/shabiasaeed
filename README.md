@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/84743905/174509202-a070c147-bb41-4174-aa01-510c6c7f4903.png)
 
 
-<h3><img src="https://user-images.githubusercontent.com/84743905/174509202-a070c147-bb41-4174-aa01-510c6c7f4903.png" alt="image" align="middle"> TECHNOLOGIES</h3>
+<h2><img src="https://user-images.githubusercontent.com/84743905/174509202-a070c147-bb41-4174-aa01-510c6c7f4903.png" alt="image" align="middle"> TECHNOLOGIES</h2>
 
 ![image](https://user-images.githubusercontent.com/84743905/174512894-dd0c3ad2-f795-4c64-b8d0-edaecd00af07.png)
 ![image](https://user-images.githubusercontent.com/84743905/174512924-282de661-eca1-4945-8f38-37e0bcf6477c.png)
@@ -10,7 +10,7 @@
 
 
 
-<h3>FULL STACK PROJECTS</h3>
+<h2>FULL STACK PROJECTS</h2>
 <br>
 <img src="https://camo.githubusercontent.com/0132c975e4782fd2d45a280683ef696f5a81e09a2475eefadbdcbb456fed2c63/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2546302539462541372541432532304d79253230576562736974652d303030" alt="" data-canonical-src="https://img.shields.io/badge/-%F0%9F%A7%AC%20My%20Website-000" style="max-width: 100%;">
 
