@@ -1,11 +1,12 @@
 
 <h2><img align="center" height="40" src="https://user-images.githubusercontent.com/84743905/174633115-725f8b5b-7b8c-486a-aae5-5350e56f3805.png"> TECHNOLOGIES</h2>
 
+![image](https://user-images.githubusercontent.com/84743905/174910039-20eb1ed8-d493-457a-bfd1-2f0fb8ba08b3.png)
+![image](https://user-images.githubusercontent.com/84743905/174910155-9e3b48b5-2350-4c71-99f6-36d1c163fe19.png)
+![image](https://user-images.githubusercontent.com/84743905/174910084-0509c0b9-be50-4dca-aa47-6b06028e7184.png)
+![image](https://user-images.githubusercontent.com/84743905/174910109-e8b41337-bdaf-47d0-8074-7a28713ac79d.png)
+![image](https://user-images.githubusercontent.com/84743905/174910621-ef50dcf0-8da1-4f33-b96f-4af320716108.png)
 
-![image](https://user-images.githubusercontent.com/84743905/174512894-dd0c3ad2-f795-4c64-b8d0-edaecd00af07.png)
-![image](https://user-images.githubusercontent.com/84743905/174512924-282de661-eca1-4945-8f38-37e0bcf6477c.png)
-![image](https://user-images.githubusercontent.com/84743905/174512948-4a0a8ab3-ca87-43c3-8bcb-03104c0259a0.png)
-![image](https://user-images.githubusercontent.com/84743905/174512999-aaa67643-9ed6-4cad-b8c0-0b5d15a7b8a6.png)
 
 
 <h2><img align="center" height="50" src="https://user-images.githubusercontent.com/84743905/174909786-1101ca43-de9c-40e0-bd86-8ddaaf79a9a4.png"> FULL STACK PROJECTS</h2>
