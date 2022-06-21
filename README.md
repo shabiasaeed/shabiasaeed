@@ -8,12 +8,15 @@
 ![image](https://user-images.githubusercontent.com/84743905/174512999-aaa67643-9ed6-4cad-b8c0-0b5d15a7b8a6.png)
 
 
-<h2><img align="center" height="40" src="https://user-images.githubusercontent.com/84743905/174507937-c8637dd7-5a10-4c12-bf23-945c7872ace2.png"> FULL STACK PROJECTS</h2>
+<h2><img align="center" height="50" src="https://user-images.githubusercontent.com/84743905/174909786-1101ca43-de9c-40e0-bd86-8ddaaf79a9a4.png"> FULL STACK PROJECTS</h2>
 
 <br>
 <img src="https://camo.githubusercontent.com/0132c975e4782fd2d45a280683ef696f5a81e09a2475eefadbdcbb456fed2c63/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2546302539462541372541432532304d79253230576562736974652d303030" alt="" data-canonical-src="https://img.shields.io/badge/-%F0%9F%A7%AC%20My%20Website-000" style="max-width: 100%;">
 
 <h2><img align="center" height="40" src="https://user-images.githubusercontent.com/84743905/174633345-4d150e28-c7ba-46b4-a87f-194279dbc32d.png"> CONNECT WITH ME</h2>
+
+
+
 
 
 
