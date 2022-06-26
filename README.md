@@ -27,19 +27,17 @@
 [![alt text][6.1]][6]
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-![alt text][3.1]
-![image](https://user-images.githubusercontent.com/84743905/174513198-4ec81118-8456-4336-85dd-3ea7f56a0a70.png)
+[![alt text][3.1]][3]
 
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon)
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon)
+[3.1]: https://i.imgur.com/SWgh5D6.png (linkedin icon)
 
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: https://i.imgur.com/SWgh5D6.png
-
-[6]: http://www.github.com/shabiasaeed
-[1]: http://www.twitter.com/ShabiaSaeed
-[2]: http://www.facebook.com/shabia.saeed
-
+[6]: http://www.github.com/s
+[1]: http://www.twitter.com/s
+[2]: http://www.facebook.com/s
+[3]: http://www.facebook.com/s
 
 
 
